@@ -45,9 +45,7 @@ I recommend the following project structure:
 ```text
 
 course_material/
-├── README.md
 ├── examples/
-├── shared_code/
 ├── natacha/
 ├── student_1/
 │   ├── data/
