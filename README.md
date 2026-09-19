@@ -1,8 +1,5 @@
 
-# Data Analysis Clinic (Unibas VVZ: 76283)Practical courses: Data Analysis Clinic (Unibas VVZ: 76283)
-
-
-## Practical courses: Data Analysis Clinic (Unibas VVZ: 76283)
+# Data Analysis Clinic (Unibas VVZ: 76283)
 
 Lecturers: 		Dr. Natacha Bodenhausen
 
